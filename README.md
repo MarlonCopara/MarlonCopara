@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/banner_linkedin.png?alt=media&token=e117b645-c1f2-44c1-b44a-61ca26ee8f78)]()
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/Banner_Copara_Marlon.png?alt=media&token=cb0a9aec-e4c3-4d5b-be29-d87d50879c89)]()
 <h1 align="center">Hi 👋, I'm Marlon Copara</h1>
 <h3 align="center">A passionate FullStack Developer from Ecuador</h3>
 <img align="right" alt="Coding" width="340" src="https://media3.giphy.com/media/YOczfjtC0H0IMBKhRf/200w.webp?cid=ecf05e47m00zu7vrjptnh0er7kgpqdc3j52ynggfhu8jt1w3&ep=v1_gifs_related&rid=200w.webp&ct=g">
@@ -77,7 +77,7 @@
   <td width="50%">
     <h3 align="center">Amortization System</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/Sistema_amortizaci%C3%B3n.png?alt=media&token=705cbb3a-d211-499b-982a-76a959e95823" width="400" alt="amortizationsystem"></a>
+      <a href="#" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/Sistema_amortización.png?alt=media&token=07146e0e-0d63-4ff4-9efd-f30cedaf4659" width="400" alt="amortizationsystem"></a>
       <p>
         <a href="https://github.com/MarlonCopara/Sistema-Amortizacion-Frontend" target="_blank"><img src="https://img.shields.io/badge/FRONTEND-047495?style=for-the-badge&logo=github&logoColor=black"></a>
         <a href="https://github.com/MarlonCopara/Sistema-Amortizacion-Backend" target="_blank"><img src="https://img.shields.io/badge/BACKEND-047495?style=for-the-badge&logo=github&logoColor=black"></a>
@@ -91,7 +91,7 @@
   <td width="50%">
     <h3 align="center">BiblioGest</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/BiblioGest.png?alt=media&token=4ce7fcab-e10b-41d8-a413-936741845239" width="400" alt="bibliogest"></a>
+      <a href="#" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/BiblioGest.png?alt=media&token=9948da91-5627-46b8-b94e-136a68a3d4d2" width="400" alt="bibliogest"></a>
       <p><a href="https://github.com/MarlonCopara/BiblioGest" target="_blank"><img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black"></a></p>
       <p><strong>BiblioGest:</strong> Web application for comprehensive library management, including administration of books, authors, categories, loans, and generation of reports for efficient library tracking.</p>
     </div>                
@@ -100,7 +100,7 @@
   <td width="50%">
     <h3 align="center">Attendance Registration System</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/Registro_asistencia.png?alt=media&token=719d4f6a-c258-45b3-a3b2-eeb3db830ade" width="400" alt="attendanceregistrationsystem"></a>
+      <a href="#" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/Registro_asistencia.png?alt=media&token=e728ff62-809e-47ad-84bc-20ce34269d58" width="400" alt="attendanceregistrationsystem"></a>
       <p><a href="https://github.com/MarlonCopara/Sistema-Registro-Asistencia" target="_blank"><img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black"></a></p>
       <p><strong>Attendance Registration System:</strong> Tool for managing teacher attendance, allowing registration and analysis of presences, absences, and generation of reports on educational staff attendance.</p>
     </div>                
