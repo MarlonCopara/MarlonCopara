@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://x.com/MarlonCopara" target="blank"><img src="https://img.freepik.com/vector-gratis/twitter-nuevo-logotipo-2023-x-vector-fondo-blanco_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1480204119.1718323200&semt=ais_user" alt="marloncopara" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/marlon-alexis-copara-allauca-b7338330b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
- alt="rishav_chanda" height="30" width="40" /></a>
+
 </p>
 <br>
 <br>
